@@ -56,33 +56,36 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+## UP COUNTER
+![up counter](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/e6af298b-b90d-4281-817e-7d0a1e9a6fdd)
 
-
-
-
-
+## DOWN COUNTER
+![down counter](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/7944946f-f4f8-4de8-90e8-2c50469d61b4)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+## UP COUNTER
+![rtl up counter](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/a4990590-66fe-49be-a050-8c2a261cb36c)
 
-
-
-
-
-
+## DOWN COUNTER
+![rtl down](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/405852a6-858a-4cf6-aaf1-efe9c6e2fcb0)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+ ## UP COUNTER
+ ![time up counter](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/45d6f0ed-0c03-41fb-ad15-83fe442c8441)
 
-
-
+  ## DOWN COUNTER
+  ![time down](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/6234da5d-5188-4444-8181-83d4a32a5e4a)
 
 ### TRUTH TABLE 
 
+## UP COUNTER
+![tt up counter](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/9467713b-d827-4db5-abce-60b1204b62da)
 
-
-
-
+## DOWN COUNTER
+![down TT](https://github.com/AnbuSelvanS7/Exp-7-Synchornous-counters-/assets/151528411/df8cd84e-f4f2-4b96-85ae-182ee6a479a1)
 
 ### RESULTS 
+Thus,The 4-bit up and down counter is implemented successfully
